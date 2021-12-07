@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bigputty_fired.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kaboom0000" x="0" y="0" width="885" height="776" frameX="-22" frameY="0" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0001" x="0" y="0" width="885" height="776" frameX="-22" frameY="0" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0002" x="885" y="0" width="885" height="777" frameX="-26" frameY="-3" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0003" x="885" y="0" width="885" height="777" frameX="-26" frameY="-3" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0004" x="1770" y="0" width="887" height="879" frameX="-22" frameY="-12" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0005" x="2657" y="0" width="887" height="875" frameX="-22" frameY="-12" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0006" x="3544" y="0" width="889" height="852" frameX="-21" frameY="-28" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0007" x="4433" y="0" width="889" height="843" frameX="-21" frameY="-28" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0008" x="5322" y="0" width="891" height="810" frameX="-21" frameY="-51" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0009" x="6213" y="0" width="891" height="798" frameX="-21" frameY="-51" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0010" x="7104" y="0" width="894" height="782" frameX="-20" frameY="-81" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0011" x="0" y="879" width="894" height="782" frameX="-20" frameY="-81" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0012" x="894" y="879" width="898" height="788" frameX="-18" frameY="-118" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0013" x="1792" y="879" width="899" height="788" frameX="-17" frameY="-118" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0014" x="2691" y="879" width="903" height="795" frameX="-15" frameY="-163" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0015" x="3594" y="879" width="903" height="795" frameX="-15" frameY="-163" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0016" x="4497" y="879" width="905" height="804" frameX="-14" frameY="-217" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0017" x="5402" y="879" width="905" height="804" frameX="-14" frameY="-217" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0018" x="6307" y="879" width="908" height="812" frameX="-11" frameY="-281" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0019" x="6307" y="879" width="908" height="812" frameX="-11" frameY="-281" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0020" x="7215" y="879" width="914" height="816" frameX="-4" frameY="-356" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0021" x="7215" y="879" width="914" height="816" frameX="-4" frameY="-356" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0022" x="0" y="1695" width="914" height="865" frameX="0" frameY="-393" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0023" x="0" y="1695" width="914" height="865" frameX="0" frameY="-393" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0024" x="914" y="1695" width="907" height="957" frameX="-1" frameY="-393" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0025" x="914" y="1695" width="907" height="957" frameX="-1" frameY="-393" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0026" x="1821" y="1695" width="891" height="1054" frameX="-8" frameY="-393" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0027" x="1821" y="1695" width="891" height="1054" frameX="-8" frameY="-393" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0028" x="2712" y="1695" width="873" height="1154" frameX="-13" frameY="-395" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0029" x="3585" y="1695" width="874" height="1150" frameX="-12" frameY="-399" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0030" x="4459" y="1695" width="859" height="1250" frameX="-11" frameY="-405" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0031" x="5318" y="1695" width="861" height="1242" frameX="-9" frameY="-413" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0032" x="6179" y="1695" width="862" height="1344" frameX="-7" frameY="-421" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0033" x="7041" y="1695" width="864" height="1338" frameX="-5" frameY="-427" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0034" x="0" y="3039" width="885" height="1452" frameX="-4" frameY="-432" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0035" x="885" y="3039" width="886" height="1451" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0036" x="1771" y="3039" width="905" height="1587" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0037" x="1771" y="3039" width="905" height="1587" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0038" x="2676" y="3039" width="917" height="1726" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0039" x="2676" y="3039" width="917" height="1726" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0040" x="3593" y="3039" width="919" height="1866" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0041" x="3593" y="3039" width="919" height="1866" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0042" x="4512" y="3039" width="908" height="2004" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0043" x="5420" y="3039" width="908" height="2004" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0044" x="6328" y="3039" width="905" height="2141" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0045" x="7233" y="3039" width="905" height="2141" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0046" x="0" y="5180" width="922" height="2276" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+	<SubTexture name="kaboom0047" x="0" y="5180" width="922" height="2276" frameX="-3" frameY="-433" frameWidth="925" frameHeight="2709"/>
+</TextureAtlas>

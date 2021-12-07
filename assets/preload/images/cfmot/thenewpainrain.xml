@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thenewpainrain.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="therealpainrain образец 10000" x="0" y="0" width="1633" height="986" frameX="-244" frameY="0" frameWidth="1877" frameHeight="1296"/>
+	<SubTexture name="therealpainrain образец 10001" x="1633" y="0" width="1844" height="1256" frameX="0" frameY="-40" frameWidth="1877" frameHeight="1296"/>
+	<SubTexture name="therealpainrain образец 10002" x="0" y="1256" width="1399" height="928" frameX="-230" frameY="-61" frameWidth="1877" frameHeight="1296"/>
+	<SubTexture name="therealpainrain образец 10003" x="1399" y="1256" width="941" height="857" frameX="-582" frameY="-14" frameWidth="1877" frameHeight="1296"/>
+	<SubTexture name="therealpainrain образец 10004" x="2340" y="1256" width="1038" height="903" frameX="-385" frameY="-78" frameWidth="1877" frameHeight="1296"/>
+</TextureAtlas>

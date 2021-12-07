@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bottly.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bottly0000" x="0" y="0" width="223" height="593" frameX="-875" frameY="-852" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0001" x="223" y="0" width="222" height="594" frameX="-876" frameY="-851" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0002" x="445" y="0" width="1914" height="1599" frameX="0" frameY="0" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0003" x="2359" y="0" width="482" height="476" frameX="-786" frameY="-912" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0004" x="2841" y="0" width="2238" height="1436" frameX="-337" frameY="-158" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0005" x="5079" y="0" width="684" height="559" frameX="-729" frameY="-869" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0006" x="5763" y="0" width="728" height="576" frameX="-715" frameY="-858" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0007" x="6491" y="0" width="730" height="601" frameX="-713" frameY="-849" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0008" x="7221" y="0" width="736" height="608" frameX="-710" frameY="-843" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0009" x="0" y="1599" width="745" height="618" frameX="-706" frameY="-838" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0010" x="745" y="1599" width="748" height="620" frameX="-706" frameY="-835" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0011" x="1493" y="1599" width="745" height="624" frameX="-710" frameY="-832" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0012" x="2238" y="1599" width="761" height="628" frameX="-707" frameY="-829" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0013" x="2999" y="1599" width="782" height="631" frameX="-708" frameY="-826" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0014" x="3781" y="1599" width="747" height="585" frameX="-709" frameY="-872" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0015" x="4528" y="1599" width="748" height="586" frameX="-710" frameY="-872" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0016" x="5276" y="1599" width="746" height="584" frameX="-711" frameY="-875" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0017" x="6022" y="1599" width="722" height="441" frameX="-712" frameY="-999" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0018" x="6744" y="1599" width="466" height="284" frameX="-712" frameY="-1147" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0019" x="7210" y="1599" width="5" height="4" frameX="-1112" frameY="-1231" frameWidth="2575" frameHeight="1599"/>
+	<SubTexture name="bottly0020" x="7215" y="1599" width="0" height="0" frameX="-874" frameY="-852" frameWidth="2575" frameHeight="1599"/>
+</TextureAtlas>

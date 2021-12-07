@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bigputty.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="big_putty0000" x="0" y="0" width="470" height="619" frameX="0" frameY="-23" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0001" x="470" y="0" width="459" height="628" frameX="-6" frameY="-14" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0002" x="929" y="0" width="451" height="634" frameX="-10" frameY="-8" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0003" x="1380" y="0" width="446" height="638" frameX="-12" frameY="-4" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0004" x="0" y="638" width="443" height="641" frameX="-14" frameY="-1" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0005" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0006" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0007" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0008" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0009" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0010" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0011" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0012" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0013" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0014" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0015" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0016" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0017" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0018" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0019" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0020" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0021" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0022" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0023" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0024" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0025" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0026" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+	<SubTexture name="big_putty0027" x="443" y="638" width="442" height="642" frameX="-14" frameY="0" frameWidth="470" frameHeight="642"/>
+</TextureAtlas>

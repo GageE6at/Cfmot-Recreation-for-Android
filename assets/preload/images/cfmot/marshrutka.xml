@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marshrutka.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="marshrutka0000" x="0" y="0" width="962" height="348" frameX="0" frameY="-59" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0001" x="962" y="0" width="838" height="382" frameX="-65" frameY="-29" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0002" x="1800" y="0" width="794" height="393" frameX="-88" frameY="-19" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0003" x="2594" y="0" width="773" height="398" frameX="-99" frameY="-14" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0004" x="0" y="398" width="756" height="404" frameX="-108" frameY="-9" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0005" x="756" y="398" width="732" height="414" frameX="-120" frameY="0" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0006" x="1488" y="398" width="734" height="412" frameX="-119" frameY="-1" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0007" x="2222" y="398" width="738" height="410" frameX="-117" frameY="-3" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0008" x="2960" y="398" width="742" height="408" frameX="-115" frameY="-5" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0009" x="0" y="812" width="748" height="406" frameX="-112" frameY="-6" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0010" x="748" y="812" width="750" height="405" frameX="-111" frameY="-7" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0011" x="0" y="812" width="748" height="406" frameX="-112" frameY="-6" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0012" x="2960" y="398" width="742" height="408" frameX="-115" frameY="-5" frameWidth="962" frameHeight="414"/>
+	<SubTexture name="marshrutka0013" x="2222" y="398" width="738" height="410" frameX="-117" frameY="-3" frameWidth="962" frameHeight="414"/>
+</TextureAtlas>

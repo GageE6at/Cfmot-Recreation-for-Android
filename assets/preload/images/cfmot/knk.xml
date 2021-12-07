@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knk.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="knifenkurasan образец 10000" x="0" y="0" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10001" x="380" y="0" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10002" x="760" y="0" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10003" x="1140" y="0" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10004" x="1520" y="0" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10005" x="1900" y="0" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10006" x="2280" y="0" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10007" x="2660" y="0" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10008" x="3040" y="0" width="378" height="341" frameX="-12" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10009" x="3418" y="0" width="378" height="341" frameX="-12" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10010" x="0" y="341" width="377" height="341" frameX="-13" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10011" x="377" y="341" width="376" height="341" frameX="-14" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10012" x="753" y="341" width="375" height="341" frameX="-15" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10013" x="1128" y="341" width="373" height="342" frameX="-17" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10014" x="1501" y="341" width="372" height="342" frameX="-18" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10015" x="1873" y="341" width="370" height="342" frameX="-20" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10016" x="2243" y="341" width="368" height="342" frameX="-21" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10017" x="2611" y="341" width="368" height="342" frameX="-21" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10018" x="2979" y="341" width="367" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10019" x="3346" y="341" width="367" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10020" x="3713" y="341" width="367" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10021" x="0" y="683" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10022" x="366" y="683" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10023" x="732" y="683" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10024" x="1098" y="683" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10025" x="1464" y="683" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10026" x="1830" y="683" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10027" x="2196" y="683" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10028" x="2562" y="683" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10029" x="2928" y="683" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10030" x="3294" y="683" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10031" x="3660" y="683" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10032" x="0" y="1025" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10033" x="366" y="1025" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10034" x="732" y="1025" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10035" x="1098" y="1025" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10036" x="1464" y="1025" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10037" x="1830" y="1025" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10038" x="2196" y="1025" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10039" x="2562" y="1025" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10040" x="2928" y="1025" width="366" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10041" x="3294" y="1025" width="367" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10042" x="3661" y="1025" width="367" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10043" x="0" y="1367" width="367" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10044" x="367" y="1367" width="367" height="342" frameX="-22" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10045" x="734" y="1367" width="368" height="342" frameX="-21" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10046" x="1102" y="1367" width="369" height="342" frameX="-20" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10047" x="1471" y="1367" width="370" height="342" frameX="-19" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10048" x="1841" y="1367" width="371" height="342" frameX="-18" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10049" x="2212" y="1367" width="373" height="342" frameX="-16" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10050" x="2585" y="1367" width="375" height="342" frameX="-15" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10051" x="2960" y="1367" width="377" height="342" frameX="-13" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10052" x="3337" y="1367" width="379" height="342" frameX="-11" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10053" x="0" y="1709" width="381" height="342" frameX="-9" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10054" x="381" y="1709" width="383" height="342" frameX="-7" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10055" x="764" y="1709" width="385" height="342" frameX="-5" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10056" x="1149" y="1709" width="386" height="342" frameX="-4" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10057" x="1535" y="1709" width="387" height="342" frameX="-3" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10058" x="1922" y="1709" width="388" height="342" frameX="-2" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10059" x="2310" y="1709" width="389" height="342" frameX="-1" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10060" x="2699" y="1709" width="389" height="342" frameX="-1" frameY="0" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10061" x="3088" y="1709" width="391" height="342"/>
+	<SubTexture name="knifenkurasan образец 10062" x="3479" y="1709" width="391" height="342"/>
+	<SubTexture name="knifenkurasan образец 10063" x="0" y="2051" width="391" height="342"/>
+	<SubTexture name="knifenkurasan образец 10064" x="391" y="2051" width="391" height="342"/>
+	<SubTexture name="knifenkurasan образец 10065" x="782" y="2051" width="391" height="342"/>
+	<SubTexture name="knifenkurasan образец 10066" x="1173" y="2051" width="391" height="342"/>
+	<SubTexture name="knifenkurasan образец 10067" x="1564" y="2051" width="391" height="342"/>
+	<SubTexture name="knifenkurasan образец 10068" x="1955" y="2051" width="391" height="342"/>
+	<SubTexture name="knifenkurasan образец 10069" x="2346" y="2051" width="391" height="342"/>
+	<SubTexture name="knifenkurasan образец 10070" x="2737" y="2051" width="391" height="342"/>
+	<SubTexture name="knifenkurasan образец 10071" x="3128" y="2051" width="391" height="342"/>
+	<SubTexture name="knifenkurasan образец 10072" x="3519" y="2051" width="391" height="341" frameX="0" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10073" x="0" y="2393" width="391" height="341" frameX="0" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10074" x="391" y="2393" width="390" height="341" frameX="-1" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10075" x="781" y="2393" width="390" height="341" frameX="-1" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10076" x="1171" y="2393" width="390" height="341" frameX="-1" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10077" x="1561" y="2393" width="389" height="341" frameX="-2" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10078" x="1950" y="2393" width="388" height="341" frameX="-3" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10079" x="2338" y="2393" width="388" height="341" frameX="-3" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10080" x="2726" y="2393" width="387" height="341" frameX="-4" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10081" x="3113" y="2393" width="386" height="341" frameX="-5" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10082" x="3499" y="2393" width="385" height="341" frameX="-6" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10083" x="0" y="2734" width="384" height="341" frameX="-7" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10084" x="384" y="2734" width="383" height="341" frameX="-8" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10085" x="767" y="2734" width="382" height="341" frameX="-9" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10086" x="1149" y="2734" width="381" height="341" frameX="-10" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10087" x="1530" y="2734" width="381" height="341" frameX="-10" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10088" x="1911" y="2734" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10089" x="2291" y="2734" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10090" x="2671" y="2734" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10091" x="3051" y="2734" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+	<SubTexture name="knifenkurasan образец 10092" x="0" y="0" width="380" height="341" frameX="-11" frameY="-1" frameWidth="391" frameHeight="342"/>
+</TextureAtlas>
