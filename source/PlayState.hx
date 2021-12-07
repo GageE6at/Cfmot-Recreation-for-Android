@@ -1038,6 +1038,14 @@ class PlayState extends MusicBeatState
 					schoolIntro(doof);
                                 case 'the-best-letter':
                                         startVideo('1');
+                                case 'band':
+                                        startVideo('2');
+                                case 'nervous-breakdown':
+                                        startVideo('3');
+                                case 'glasses':
+                                        startVideo('4');
+                                case 'pzdc':
+                                        startVideo('5');
 				default:
 					if (dialogueJson == null)
 						startCountdown();
